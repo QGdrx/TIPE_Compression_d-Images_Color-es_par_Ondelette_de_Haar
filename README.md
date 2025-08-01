@@ -1,4 +1,4 @@
-# TIPE_Compression_d-Images_Colorees_par_Ondelette_de_Haar
+# TIPE : Compression d'Images Colorees par Ondelette de Haar
 
 Ceci est mon TIPE que j'ai réalisé lorsque j'étais en classe préparatoire aux grandes écoles.
 Il porte sur la compression d'images colorées en utilisant une méthode particulière : celle des ondelettes, et en utilisant une ondelette usuelle, l'ondelette de Haar.
